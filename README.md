@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi, I'm <a href="[https://aristi.dev](https://www.linkedin.com/in/leandrolcd/)">Leandro.</a> :+1:</h1>
+<h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/leandrolcd/">Leandro.</a> :+1:</h1>
 </div>
 <div align="center">
   <img src="https://i.imgur.com/WYjBEu9.jpg">
@@ -31,17 +31,11 @@
  <table>
 <tr>
 <td width="50%">
-<h3 align="center">EmployeeRecord</h3>
+<h3 align="center">Semi Circular Gauge</h3>
 <div align="center">
-<a href=""[https://github.com/ArisGuimera/Android-Expert](https://github.com/LeandroLCD/EmployeeRecord)" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="EmployeeRecord"></a>
-<p>
-<a href="https://github.com/LeandroLCD/SemiCircularGauge" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
-</a>
-</p>
-<p>SemiCircularGauge <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+<a href=""[https://github.com/ArisGuimera/Android-Expert](https://github.com/LeandroLCD/EmployeeRecord)" target="_blank"><img src="https://i.imgur.com/xNIuN58.gifv" width="400" alt="Semi Circular Gauge"></a>
+
+<p><strong> SemiCircularGauge </strong> - is a Jetpack Compose graphical component that allows to display a numerical value within a specified range, using a semicircular gauge meter that shows the current value and the minimum and maximum allowed values. This component is highly customizable, allowing to set the minimum and maximum values, the current value, the colors of the different graphical elements, and the orientation of the value scale. In addition, it can be used in conjunction with other Jetpack Compose components to build dashboards and data visualization applications.</p>
 </div>
                                                                                       
 </td>
