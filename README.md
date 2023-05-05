@@ -3,10 +3,17 @@
 </div>
 <div align="center">
   <img src="https://i.imgur.com/WYjBEu9.jpg">
-  <h2 align="center">I am passionate about the sea, the mountains and the sunsets</>
+  <h2 align="center">I am passionate about the sea, the mountains and the sunsets</h2> 
+    
   
 </div>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LeandroLCD" alt="LeandroLCD" /></a> </p>
+
+<p align="center"> 
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=LeandroLCD" alt="LeandroLCD" />
+    </a> 
+</p>
+
 <h3 align="left">About me:</h3> 
 
 - 📲 Mobile developer
@@ -32,38 +39,40 @@
   
   <br>
 <h3 align="left">Projects:</h3>
- <table>
+<table>
 <tr>
-  
-<td width="50%">
-<h2 align="center">Semi Circular Gauge</h3>
-  
-  
-  
-<div align="center">
-<a href="https://github.com/LeandroLCD/SemiCircularGauge" target="_blank"><img src="https://i.imgur.com/JqRMRdj.gif" width="400"></a>
+<td width="50%" style="vertical-align: top;">
 
- <a href="https://github.com/LeandroLCD/SemiCircularGauge" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-350?style=for-the-badge&logo=github&logoColor=white">
-</a>
+<h3 align="center">Semi Circular Gauge</h3>
+<div align="center">
+<a href="https://github.com/LeandroLCD/SemiCircularGauge" target="_blank"><img src="https://i.imgur.com/JqRMRdj.gif" width="400" height="400"></a>
+
+<p><a href="https://github.com/LeandroLCD/SemiCircularGauge" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-350?style=for-the-badge&logo=github&logoColor=white"></a></p>
 
 <p><strong> SemiCircularGauge </strong> - is a Jetpack Compose graphical component that allows to display a numerical value within a specified range, using a semicircular gauge meter that shows the current value and the minimum and maximum allowed values. This component is highly customizable, allowing to set the minimum and maximum values, the current value, the colors of the different graphical elements, and the orientation of the value scale. In addition, it can be used in conjunction with other Jetpack Compose components to build dashboards and data visualization applications.</p>
-  
 </div>
-                                                                                      
+
 </td>
 
-<td width="50%">
-               
-<h3 align="center">BarCode Scaneer</h3>
-<div align="center">                                       
-<a href="https://github.com/LeandroLCD/BarCode_Scanner" target="_blank"><img src="https://i.imgur.com/9cyhGa0.gif" width="400"></a>
-<a href="https://github.com/LeandroLCD/BarCode_Scanner" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-350?style=for-the-badge&logo=github&logoColor=white">
-</a>
+<td width="50%" style="vertical-align: top;">
 
-</p><strong>BarCode Scaneer</strong> This app is a barcode scanner built with Jetpack Compose that utilizes Google's machine learning technology for optimal scanning results. It also follows the MVVM architecture pattern and uses dependency injection, as well as Clean Architecture principles for a well-organized project structure. CameraX for Compose was used for camera integration.</p>
-</div>                                                             
-</table>                                                                                 
-</div>
+<h3 align="center">BarCode Scaneer</h3>
+<div align="center">
+<a href="https://github.com/LeandroLCD/BarCode_Scanner" target="_blank"><img src="https://i.imgur.com/9cyhGa0.gif" width="400" height="400"></a>
+
+<br>
+
+<p><a href="https://github.com/LeandroLCD/BarCode_Scanner" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-350?style=for-the-badge&logo=github&logoColor=white"></a></p>
+
+<p><strong>BarCode Scaneer</strong> This app is a barcode scanner built with Jetpack Compose that utilizes Google's machine learning technology for optimal scanning results. It also follows the MVVM architecture pattern and uses dependency injection, as well as Clean Architecture principles for a well-organized project structure. CameraX for Compose was used for camera integration.
+</p>
+ </div>
+ <br>
+</td>
+</tr>
+
+</table>                                                                            
+
 <br>
