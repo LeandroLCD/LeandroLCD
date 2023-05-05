@@ -18,7 +18,7 @@
 
 - 📲 Mobile developer
 - :mortar_board: Geoscience Engineer
-- :dog2: Creator of the dog analyzer app
+- :dog2: Creator of the dog analyzer <a href="https://play.google.com/store/apps/details?id=com.leandrolcd.doganalyzer">app<a/>
 
   
 
