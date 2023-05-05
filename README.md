@@ -20,10 +20,8 @@
 <p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
 
 
-  <h3 align="left">GitHub Analytics:</h3>
+ <h3 align="left">GitHub Analytics:</h3>
    
-  
-  
 
 <p align="center">
 <a href="https://github.com/LeandroLCD">
@@ -32,26 +30,31 @@
 </a>
 </p>
   
-  
-<h3 align="left">Proyects:</h3>
+  <br>
+<h3 align="left">Projects:</h3>
  <table>
 <tr>
+  
 <td width="50%">
 <h2 align="center">Semi Circular Gauge</h3>
+  
+  
+  
 <div align="center">
 <a href="https://github.com/LeandroLCD/SemiCircularGauge" target="_blank"><img src="https://i.imgur.com/JqRMRdj.gif" width="400"></a>
 
 <p><strong> SemiCircularGauge </strong> - is a Jetpack Compose graphical component that allows to display a numerical value within a specified range, using a semicircular gauge meter that shows the current value and the minimum and maximum allowed values. This component is highly customizable, allowing to set the minimum and maximum values, the current value, the colors of the different graphical elements, and the orientation of the value scale. In addition, it can be used in conjunction with other Jetpack Compose components to build dashboards and data visualization applications.</p>
+  
 </div>
                                                                                       
 </td>
 
 <td width="50%">
-               <br>
+               
 <h3 align="center">BarCode Scaneer</h3>
 <div align="center">                                       
 <a href="https://github.com/LeandroLCD/BarCode_Scanner" target="_blank"><img src="https://i.imgur.com/9cyhGa0.gif" width="400"></a>
-<br>
+
 
 </p><strong>BarCode Scaneer</strong> This app is a barcode scanner built with Jetpack Compose that utilizes Google's machine learning technology for optimal scanning results. It also follows the MVVM architecture pattern and uses dependency injection, as well as Clean Architecture principles for a well-organized project structure. CameraX for Compose was used for camera integration.</p>
 </div>                                                             
