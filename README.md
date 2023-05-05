@@ -41,23 +41,10 @@
 <h3 align="left">Projects:</h3>
 <table>
 <tr>
-<td width="50%">
-
-<h3 align="center">Semi Circular Gauge</h3>
-<div align="center">
-<a href="https://github.com/LeandroLCD/SemiCircularGauge" target="_blank"><img src="https://i.imgur.com/JqRMRdj.gif" width="400" height="400"></a>
-
-<p><a href="https://github.com/LeandroLCD/SemiCircularGauge" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-350?style=for-the-badge&logo=github&logoColor=white"></a></p>
-
-<p><strong> SemiCircularGauge </strong> - is a Jetpack Compose graphical component that allows to display a numerical value within a specified range, using a semicircular gauge meter that shows the current value and the minimum and maximum allowed values. This component is highly customizable, allowing to set the minimum and maximum values, the current value, the colors of the different graphical elements, and the orientation of the value scale. In addition, it can be used in conjunction with other Jetpack Compose components to build dashboards and data visualization applications.</p>
-</div>
-
-</td>
 
 <td width="50%" style="vertical-align: top;">
 
-<h3 align="center">BarCode Scaneer</h3>
+<h3 align="center">Barcode Scanner</h3>
 <div align="center">
 <a href="https://github.com/LeandroLCD/BarCode_Scanner" target="_blank"><img src="https://i.imgur.com/9cyhGa0.gif" width="400" height="400"></a>
 
@@ -71,6 +58,23 @@
  </div>
  <br>
 </td>
+
+<td width="50%">
+<br>
+<br>
+<h3 align="center">Semi Circular Gauge</h3>
+<div align="center">
+<a href="https://github.com/LeandroLCD/SemiCircularGauge" target="_blank"><img src="https://i.imgur.com/JqRMRdj.gif" width="400" height="400"></a>
+
+<p><a href="https://github.com/LeandroLCD/SemiCircularGauge" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-350?style=for-the-badge&logo=github&logoColor=white"></a></p>
+
+<p><strong> SemiCircularGauge </strong> - is a Jetpack Compose graphical component that allows to display a numerical value within a specified range, using a semicircular gauge meter that shows the current value and the minimum and maximum allowed values. This component is highly customizable, allowing to set the minimum and maximum values, the current value, the colors of the different graphical elements, and the orientation of the value scale. In addition, it can be used in conjunction with other Jetpack Compose components to build dashboards and data visualization applications.</p>
+</div>
+
+</td>
+
+
 </tr>
 
 </table>                                                                            
