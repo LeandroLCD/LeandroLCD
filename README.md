@@ -41,7 +41,7 @@
 <h3 align="left">Projects:</h3>
 <table>
 <tr>
-<td width="50%" style="vertical-align: top;">
+<td width="50%">
 
 <h3 align="center">Semi Circular Gauge</h3>
 <div align="center">
