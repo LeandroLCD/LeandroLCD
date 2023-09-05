@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/leandrolcd/">Leandro.</a> :+1:</h1>
 </div>
 <div align="center">
-  <img src="https://i.imgur.com/70hyYlY.png> 
+  <img src="https://i.imgur.com/70hyYlY.png"> 
   <h2 align="center">I am passionate about the sea, the mountains and the sunsets</h2> 
     
   
