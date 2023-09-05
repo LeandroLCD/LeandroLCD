@@ -22,7 +22,6 @@
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UClwKALzXQZHbqVPaOo39u6A?style=social)](https://youtube.com/@BlipBlipCode?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/leandrolcd?style=social)](https://www.twitch.tv/leandrolcd)
-![Discord Shield](https://discordapp.com/api/guilds/1060585120572129370/widget.png?style=shield)
 
 <h3 align="left">Languages and Tools:</h3>
   
